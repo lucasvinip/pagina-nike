@@ -1,0 +1,33 @@
+body{
+    display: grid;
+    grid-template-areas: 
+        "aside header"
+        "aside main"
+        "aside footer";
+        grid-template-columns: 1fr 2fr;
+        grid-template-rows: 15vh 70vh 15vh;
+        font-family: 'Inter', sans-serif;
+        background-color: #efefef;
+}
+
+header{
+    grid-area: header;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    grid-area: main;
+    background-color: bisque;
+}
+
+aside{
+    grid-area: aside;
+    background-color: grey;
+}
+
+footer{
+    grid-area: footer;
+    background-color: green;
+}
