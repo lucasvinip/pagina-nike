@@ -11,3 +11,16 @@ header div span:first-child{
 header div span + span{
     margin-left: 75px;
 }
+
+header div span:last-child::after {
+    content: "";
+  }
+
+.seta{
+    width: 16.36px;
+    height: 10px;
+    color: black;
+}
+.seta:hover{
+    color: rgb(81, 3, 226);
+}

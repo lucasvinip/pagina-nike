@@ -5,16 +5,15 @@ body{
         "aside main"
         "aside footer";
         grid-template-columns: 1fr 2fr;
-        grid-template-rows: 15vh 70vh 15vh;
+        grid-template-rows: 11vh 70vh 15vh;
         font-family: 'Inter', sans-serif;
         background-color: #efefef;
 }
 
 header{
     grid-area: header;
-    background-color: blue;
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 1fr auto;
 }
 
 main{
