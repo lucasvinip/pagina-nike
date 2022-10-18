@@ -5,9 +5,9 @@ body{
         "aside main"
         "aside footer";
         grid-template-columns: 1fr 2fr;
-        grid-template-rows: 11vh 70vh 15vh;
+        grid-template-rows: 15vh 70vh 15vh;
         font-family: 'Inter', sans-serif;
-        background-color: #efefef;
+        background: #EFEFEF;
 }
 
 header{
@@ -18,7 +18,8 @@ header{
 
 main{
     grid-area: main;
-    background-color: bisque;
+    display: grid;
+    grid-template-columns: .91fr 1fr 160px;
 }
 
 aside{

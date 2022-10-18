@@ -12,9 +12,6 @@ header div span + span{
     margin-left: 75px;
 }
 
-header div span:last-child::after {
-    content: "";
-  }
 
 .seta{
     width: 16.36px;
