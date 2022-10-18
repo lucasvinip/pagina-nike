@@ -1,0 +1,6 @@
+footer h3{
+    z-index: 0;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
