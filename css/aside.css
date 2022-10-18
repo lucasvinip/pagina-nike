@@ -1,0 +1,21 @@
+aside img{
+    width: 144.15px;
+    height: 159px;
+    margin-left: 66px;
+}
+
+aside ul{
+    display: flex;
+    color: #FFFFFF;
+    font-family: "Gilda Display", serif;
+    font-weight: 400;
+}
+
+aside ul li:first-child{
+    margin-left: 60px;
+}
+
+aside ul li + li{
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
