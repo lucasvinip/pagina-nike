@@ -21,5 +21,5 @@ Site do tipo landing page com intuito de divulgar o Nike Air Max. Eu estou apren
 
 - [Lucas Vinicius](https://github.com/lucasvinip)
 
-- [Clique aqui para entrar no meu linkedin](https://www.linkedin.com/in/lucas-vinicius-686157219/)
+- [Clique aqui para entrar no meu linkedin](https://www.linkedin.com/in/lucas-vinicius-silva-686157219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByvKKUyvMSGidlLMNwai2Eg%3D%3D)
  
