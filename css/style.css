@@ -19,7 +19,7 @@ header{
 main{
     grid-area: main;
     display: grid;
-    grid-template-columns: .91fr 1fr 160px;
+    grid-template-columns: .90fr 1fr 160px;
 }
 
 aside{
@@ -36,5 +36,8 @@ aside{
 
 footer{
     grid-area: footer;
+    
+    display: flex;
+    
     
 }

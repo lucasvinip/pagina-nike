@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-y: hidden;
 }
 
 ul, ol, li{
@@ -11,3 +12,4 @@ ul, ol, li{
 a{
     text-decoration: none;
 }
+
